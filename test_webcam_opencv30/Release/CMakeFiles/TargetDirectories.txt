@@ -1,0 +1,3 @@
+/home/gac/test_webcam_opencv30/Release/CMakeFiles/rebuild_cache.dir
+/home/gac/test_webcam_opencv30/Release/CMakeFiles/camera_test.dir
+/home/gac/test_webcam_opencv30/Release/CMakeFiles/edit_cache.dir
